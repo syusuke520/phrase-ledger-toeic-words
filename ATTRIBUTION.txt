@@ -1,0 +1,42 @@
+片語帳 單字資料 — 資料來源與授權 / Word data attribution and license
+
+本資料夾內的單字資料（*.tsv）以下列公開詞表作為選字依據（骨架），
+再由本專案補上詞性、中文意思、例句與例句翻譯，並依多益分數級距分組：
+
+  - The New General Service List (NGSL) 1.2
+    Browne, C., Culligan, B., & Phillips, J. (2013).
+    https://www.newgeneralservicelist.com
+    授權 / License: CC BY-SA 4.0
+
+  - The TOEIC Service List (TSL) 1.2
+    Browne, C., & Culligan, B. (2013/2016).
+    https://www.newgeneralservicelist.com/toeic-service-list
+    授權 / License: CC BY-SA 4.0
+
+  - The Business Service List (BSL) 1.2
+    Browne, C., & Culligan, B. (2016).
+    https://www.newgeneralservicelist.com
+    授權 / License: CC BY-SA 4.0
+
+  - The New Academic Word List (NAWL) 1.2
+    Browne, C., Culligan, B., & Phillips, J. (2013).
+    https://www.newgeneralservicelist.com
+    授權 / License: CC BY-SA 4.0
+
+依上述授權的「相同方式分享（ShareAlike）」條款，本資料夾內由這些詞表改寫而成的
+單字資料，同樣以 Creative Commons Attribution-ShareAlike 4.0 International
+（CC BY-SA 4.0）授權公開：
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+你可以自由分享與改作，但必須：
+  1. 標示上述原作者與出處；
+  2. 說明是否做過修改（本資料已加上中文翻譯、例句與分級，並增刪部分字詞）；
+  3. 改作後的資料用相同的 CC BY-SA 4.0 授權散布。
+
+App 的程式碼與介面不屬於上述資料，不受這項授權約束。
+
+--- English summary ---
+The word selection in these files is based on the NGSL, TSL, BSL and NAWL
+(all CC BY-SA 4.0 by Charles Browne, Brent Culligan and Joseph Phillips).
+Part of speech, Chinese meanings, example sentences and level grouping were added
+by this project. This adapted data is released under CC BY-SA 4.0.
