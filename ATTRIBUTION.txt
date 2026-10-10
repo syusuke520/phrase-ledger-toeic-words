@@ -1,4 +1,4 @@
-片語帳 單字資料 — 資料來源與授權 / Word data attribution and license
+印帳 單字資料 — 資料來源與授權 / Word data attribution and license
 
 本資料夾內的單字資料（*.tsv）以下列公開詞表作為選字依據（骨架），
 再由本專案補上詞性、中文意思、例句與例句翻譯，並依多益分數級距分組：
