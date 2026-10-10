@@ -2,6 +2,10 @@
 
 6,730 個多益常用單字，依多益分數級距（450 / 600 / 730 / 860 / 900+）分組，每個字附詞性、繁體中文意思、英文例句與例句翻譯；部分字有第二組例句（用來呈現另一個意思或用法）。
 
+**使用這份資料的 App：**[印帳多益單字Stamp Ledger](https://zifu-digital.web.app/apps/stamp-ledger/)（[紫芙數位 Zifu Digital](https://zifu-digital.web.app/)）
+
+**線上說明與延伸整理：**[多益單字表說明](https://zifu-digital.web.app/articles/toeic-word-list/)・[易混淆字對照表](https://zifu-digital.web.app/articles/toeic-confusing-words/)・[常見字首字尾](https://zifu-digital.web.app/articles/toeic-prefixes-suffixes/)
+
 ## 檔案
 
 | 檔案 | 說明 |
@@ -27,6 +31,8 @@
 本資料以 **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** 授權：<https://creativecommons.org/licenses/by-sa/4.0/>
 
 選字依據 NGSL、TSL、BSL、NAWL（Charles Browne、Brent Culligan、Joseph Phillips，CC BY-SA 4.0，<https://www.newgeneralservicelist.com>）。詞性、中文、例句、分級與增刪由「印帳」另行編寫。你可以自由分享與改作，但必須標示出處、說明是否修改，並以相同授權散布改作後的資料。
+
+建議的出處標示：「印帳 多益單字資料集（紫芙數位），CC BY-SA 4.0」，並附上本頁或 <https://zifu-digital.web.app/articles/toeic-word-list/> 的連結。
 
 ## 品質說明
 
